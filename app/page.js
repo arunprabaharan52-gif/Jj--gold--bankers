@@ -300,4 +300,6 @@ function SetupNotice() {
           வேண்டும்.
         </p>
       </div>
-    </div
+    </div>
+  );
+}
